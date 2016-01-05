@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Solution Provider]]></title>
         <description><![CDATA[Solution Provider]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/strazzabosco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 21:02:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 21:03:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/strazzabosco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Il primo anno 2014]]></title>
+            <description><![CDATA[<article><h1>Il primo anno 2014</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da79c9fc-f94a-4173-84c1-3c080541579a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/strazzabosco/il-primo-anno-2014/index.html</link>
+            <guid isPermaLink="false">9e8a76dd-6b3c-4367-b0b0-66b058153056</guid>
+            <pubDate>Tue, 05 Jan 2016 21:03:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[L'azienda]]></title>
-            <description><![CDATA[<article><h1>L'azienda</h1><p>Logo aziendale</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db7a65d5d40efbb484467686b25b9a830838bf0f.png"></article>]]></description>
-            <link>undefinedlazienda/index.html</link>
+            <description><![CDATA[<article><h1>L'azienda</h1><p>L’azienda, di giovane costituzione, ma formata da persone dalla vasta esperienza pregressa, si propone di seguire in tutto e per tutto i propri clienti nelle loro esigenze di innovazione e mantenimento degli apparati tecnologici.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c9c22522b62c7c4a25a897cb6336cc4071bc7f1.png"></article>]]></description>
+            <link>https://thegrid.ai/strazzabosco/lazienda/index.html</link>
             <guid isPermaLink="false">97b6f550-a160-4632-9916-1e33a98fa1cc</guid>
             <pubDate>Tue, 05 Jan 2016 21:02:11 GMT</pubDate>
         </item>

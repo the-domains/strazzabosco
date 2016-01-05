@@ -1,6 +1,6 @@
 name: strazzabosco
 favicon: null
-layout_spectrum: 0.05743302870541811
+layout_spectrum: 0.2424
 typography_spectrum: 0.4071393911726773
 title: Solution Provider
 cta:
@@ -23,7 +23,7 @@ color:
     - '#231f20'
     - '#4e4b4c'
   brandStrength: 0.5
-  lightness: 0.004926052410155535
-  saturation: 0.9469165361952037
-  rhythmicContrast: 0.973190002841875
+  lightness: 0.8125
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []

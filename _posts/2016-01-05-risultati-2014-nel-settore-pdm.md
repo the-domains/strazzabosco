@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T21:36:58.099Z'
-dateModified: '2016-01-05T21:36:44.892Z'
+datePublished: '2016-01-05T22:43:04.722Z'
+dateModified: '2016-01-05T22:43:01.312Z'
 title: Risultati 2014 nel settore PDM
 author: []
+sourcePath: _posts/2016-01-05-risultati-2014-nel-settore-pdm.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-risultati-2014-nel-settore-pdm.md
-published: true
-url: risultati-2014-nel-settore-pdm/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4034e290-ed80-4d24-9efc-e6dc439a9d5f.jpg)

@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-05T22:43:04.722Z'
-dateModified: '2016-01-05T22:43:01.312Z'
+description: Cosa abbiamo fatto nel 2014 per quanto concerne al settore CAD
+datePublished: '2016-01-05T23:04:13.631Z'
+dateModified: '2016-01-05T22:47:49.741Z'
 title: Risultati 2014 nel settore PDM
 author: []
 sourcePath: _posts/2016-01-05-risultati-2014-nel-settore-pdm.md

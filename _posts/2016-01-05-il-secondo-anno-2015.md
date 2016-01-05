@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T21:58:08.917Z'
-dateModified: '2016-01-05T21:57:19.446Z'
+datePublished: '2016-01-05T22:41:48.879Z'
+dateModified: '2016-01-05T22:41:45.154Z'
 title: Il secondo anno 2015
 author: []
+sourcePath: _posts/2016-01-05-il-secondo-anno-2015.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-il-secondo-anno-2015.md
-published: true
-url: il-secondo-anno-2015/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccbd2611-b403-44e2-882b-94d535b2fe6a.jpg)
